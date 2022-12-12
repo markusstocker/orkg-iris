@@ -64,7 +64,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -87,7 +89,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -110,7 +114,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -133,7 +139,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -156,7 +164,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -179,7 +189,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -202,7 +214,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -225,7 +239,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -248,7 +264,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -271,7 +289,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -294,7 +314,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -317,7 +339,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -340,7 +364,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -363,7 +389,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -386,7 +414,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -409,7 +439,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -432,7 +464,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -455,7 +489,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -478,7 +514,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -501,7 +539,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -524,7 +564,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -547,7 +589,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -570,7 +614,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -593,7 +639,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -616,7 +664,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -639,7 +689,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -662,7 +714,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -685,7 +739,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -708,7 +764,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -731,7 +789,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -754,7 +814,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -777,7 +839,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -800,7 +864,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -823,7 +889,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -846,7 +914,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -869,7 +939,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -892,7 +964,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -915,7 +989,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -938,7 +1014,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -961,7 +1039,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -984,7 +1064,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1007,7 +1089,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1030,7 +1114,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1053,7 +1139,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1076,7 +1164,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1099,7 +1189,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1122,7 +1214,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1145,7 +1239,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1168,7 +1264,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1191,7 +1289,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "setosa"
+              ],
               "column": "_:n4"
             },
             {
@@ -1214,7 +1314,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1237,7 +1339,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1260,7 +1364,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1283,7 +1389,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1306,7 +1414,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1329,7 +1439,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1352,7 +1464,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1375,7 +1489,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1398,7 +1514,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1421,7 +1539,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1444,7 +1564,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1467,7 +1589,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1490,7 +1614,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1513,7 +1639,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1536,7 +1664,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1559,7 +1689,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1582,7 +1714,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1605,7 +1739,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1628,7 +1764,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1651,7 +1789,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1674,7 +1814,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1697,7 +1839,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1720,7 +1864,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1743,7 +1889,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1766,7 +1914,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1789,7 +1939,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1812,7 +1964,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1835,7 +1989,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1858,7 +2014,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1881,7 +2039,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1904,7 +2064,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1927,7 +2089,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1950,7 +2114,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1973,7 +2139,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -1996,7 +2164,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2019,7 +2189,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2042,7 +2214,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2065,7 +2239,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2088,7 +2264,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2111,7 +2289,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2134,7 +2314,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2157,7 +2339,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2180,7 +2364,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2203,7 +2389,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2226,7 +2414,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2249,7 +2439,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2272,7 +2464,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2295,7 +2489,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2318,7 +2514,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {
@@ -2341,7 +2539,9 @@
               "@type": [
                 "https://orkg.org/class/Cell"
               ],
-              "value": null,
+              "value": [
+                "virginica"
+              ],
               "column": "_:n4"
             },
             {

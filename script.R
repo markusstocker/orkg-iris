@@ -2,15 +2,13 @@ data(iris)
 
 iris <- iris[iris$Species != "versicolor", c("Species", "Petal.Length")]
 
-i <- sapply(iris, is.factor)
-iris[i] <- lapply(iris[i], as.character)
+#i <- sapply(iris, is.factor)
+iris$Species <- lapply(iris$Species, as.character)
 
 x <- iris[iris$Species == "setosa", "Petal.Length"]
 y <- iris[iris$Species == "virginica", "Petal.Length"]
 
 tt <- t.test(x, y, var.equal = FALSE)
-
-print(head(iris))
 
 library(orkg)
 
