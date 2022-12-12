@@ -1,0 +1,2375 @@
+{
+  "@id": "_:n1",
+  "label": "Statistically significant hypothesis test with petal length dependent variable on setosa and virginica irises",
+  "@type": [
+    "https://orkg.org/class/C1007"
+  ],
+  "P4003": [
+    {
+      "@id": "_:n2",
+      "label": "the p-value",
+      "@type": [
+        "https://orkg.org/class/C1003"
+      ],
+      "P9003": [
+        {
+          "@id": "_:n3",
+          "label": "9.26962758534556e-50",
+          "@type": [
+            "https://orkg.org/class/C1004"
+          ],
+          "P9004": [
+            "9.26962758534556e-50"
+          ]
+        }
+      ]
+    }
+  ],
+  "P27011": [
+    "http://purl.obolibrary.org/obo/TO_0002605"
+  ],
+  "P4015": [
+    {
+      "label": "Setosa and virginica petal length dataset",
+      "@type": [
+        "https://orkg.org/class/Table"
+      ],
+      "columns": [
+        {
+          "@type": [
+            "https://orkg.org/class/Column"
+          ],
+          "titles": "Species",
+          "number": 1,
+          "@id": "_:n4"
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Column"
+          ],
+          "titles": "Petal.Length",
+          "number": 2,
+          "@id": "_:n5"
+        }
+      ],
+      "rows": [
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 1",
+          "number": 1,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 2",
+          "number": 2,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 3",
+          "number": 3,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 4",
+          "number": 4,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 5",
+          "number": 5,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 6",
+          "number": 6,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 7",
+          "number": 7,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 8",
+          "number": 8,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 9",
+          "number": 9,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 10",
+          "number": 10,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 11",
+          "number": 11,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 12",
+          "number": 12,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 13",
+          "number": 13,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 14",
+          "number": 14,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 15",
+          "number": 15,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.2",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 16",
+          "number": 16,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 17",
+          "number": 17,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 18",
+          "number": 18,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 19",
+          "number": 19,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 20",
+          "number": 20,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 21",
+          "number": 21,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 22",
+          "number": 22,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 23",
+          "number": 23,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 24",
+          "number": 24,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 25",
+          "number": 25,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 26",
+          "number": 26,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 27",
+          "number": 27,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 28",
+          "number": 28,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 29",
+          "number": 29,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 30",
+          "number": 30,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 31",
+          "number": 31,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 32",
+          "number": 32,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 33",
+          "number": 33,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 34",
+          "number": 34,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 35",
+          "number": 35,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 36",
+          "number": 36,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.2",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 37",
+          "number": 37,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 38",
+          "number": 38,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 39",
+          "number": 39,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 40",
+          "number": 40,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 41",
+          "number": 41,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 42",
+          "number": 42,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 43",
+          "number": 43,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 44",
+          "number": 44,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 45",
+          "number": 45,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 46",
+          "number": 46,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 47",
+          "number": 47,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 48",
+          "number": 48,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 49",
+          "number": 49,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 50",
+          "number": 50,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "1.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 101",
+          "number": 51,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 102",
+          "number": 52,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 103",
+          "number": 53,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 104",
+          "number": 54,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 105",
+          "number": 55,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.8",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 106",
+          "number": 56,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 107",
+          "number": 57,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 108",
+          "number": 58,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 109",
+          "number": 59,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.8",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 110",
+          "number": 60,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 111",
+          "number": 61,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 112",
+          "number": 62,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 113",
+          "number": 63,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 114",
+          "number": 64,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 115",
+          "number": 65,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 116",
+          "number": 66,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.3",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 117",
+          "number": 67,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 118",
+          "number": 68,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 119",
+          "number": 69,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 120",
+          "number": 70,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 121",
+          "number": 71,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 122",
+          "number": 72,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 123",
+          "number": 73,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 124",
+          "number": 74,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 125",
+          "number": 75,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 126",
+          "number": 76,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 127",
+          "number": 77,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.8",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 128",
+          "number": 78,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 129",
+          "number": 79,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 130",
+          "number": 80,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.8",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 131",
+          "number": 81,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 132",
+          "number": 82,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 133",
+          "number": 83,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 134",
+          "number": 84,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 135",
+          "number": 85,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 136",
+          "number": 86,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "6.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 137",
+          "number": 87,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 138",
+          "number": 88,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.5",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 139",
+          "number": 89,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "4.8",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 140",
+          "number": 90,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 141",
+          "number": 91,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.6",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 142",
+          "number": 92,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 143",
+          "number": 93,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 144",
+          "number": 94,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.9",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 145",
+          "number": 95,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.7",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 146",
+          "number": 96,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.2",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 147",
+          "number": 97,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.0",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 148",
+          "number": 98,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.2",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 149",
+          "number": 99,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.4",
+              "column": "_:n5"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "https://orkg.org/class/Row"
+          ],
+          "titles": "Row 150",
+          "number": 100,
+          "cells": [
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "3.0",
+              "column": "_:n4"
+            },
+            {
+              "@type": [
+                "https://orkg.org/class/Cell"
+              ],
+              "value": "5.1",
+              "column": "_:n5"
+            }
+          ]
+        }
+      ],
+      "@id": "_:n6"
+    }
+  ],
+  "@context": {
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "P4015": "https://orkg.org/property/P4015",
+    "P27011": "https://orkg.org/property/P27011",
+    "P4003": "https://orkg.org/property/P4003",
+    "P9003": "https://orkg.org/property/P9003",
+    "P9004": "https://orkg.org/property/P9004",
+    "columns": "https://orkg.org/property/CSVW_Columns",
+    "name": "https://orkg.org/property/CSVW_Name",
+    "number": "https://orkg.org/property/CSVW_Number",
+    "rows": "https://orkg.org/property/CSVW_Rows",
+    "cells": "https://orkg.org/property/CSVW_Cells",
+    "value": "https://orkg.org/property/CSVW_Value",
+    "titles": "https://orkg.org/property/CSVW_Titles"
+  }
+}
